@@ -1,4 +1,4 @@
-https://qph.cf2.quoracdn.net/main-qimg-1f946b84fc0da803167f409ba2fff94d
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fa-group.com.tr%2Fen%2Farge%2Fembedded-systems-4&psig=AOvVaw3-YZR2vyCTmgtnaueClFfi&ust=1703151354301000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDpmbjbnYMDFQAAAAAdAAAAABAQ
 
 <h1 align="center">Hi 👋, I'm Abdulkadir Erdem</h1>
 <h3 align="center">A passionate Embedded Systems Software from Turkey</h3>
