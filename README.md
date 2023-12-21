@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir Erdem</h1>
 <h3 align="center">A passionate Embedded Systems Software from Turkey</h3>
 
-- 🔭 I’m currently working on **stm32**
+- 🔭 I’m currently working on **ARM**
+- 👯 I’m using C
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
